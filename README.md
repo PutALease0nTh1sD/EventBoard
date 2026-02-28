@@ -3,4 +3,3 @@ This will be  a place people can post and rsvp for events on campus. This will h
 so people can see when their friends are free. They can invite people to events when they post. Events can be
 private or public.
 
--Nathan Gothro
